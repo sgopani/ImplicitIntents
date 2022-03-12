@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="impilicit_intents">Implicit Intents</string>
+    <string name="url">URL:</string>
+    <string name="hint">http://www.google.com</string>
+    <string name="launch">Launch</string>
+    <string name="phone">Phone :</string>
+    <string name="number_hint">XXX-XXXX</string>
+    <string name="ring">Ring</string>
+    <string name="close_app">Close App</string>
+</resources>
